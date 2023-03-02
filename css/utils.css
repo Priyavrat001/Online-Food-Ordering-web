@@ -1,0 +1,18 @@
+.h-primery {
+    font-size: 2.8rem;
+    padding: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.h-secondery {
+    font-size: 2.3rem;
+    padding: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
